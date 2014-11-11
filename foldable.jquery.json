@@ -1,0 +1,34 @@
+{
+	"name": "foldable",
+	"title": "jQuery foldable",
+	"description": "Jquery plugin to fold a div.",
+	"keywords": [
+		"jquery",
+		"foldable",
+		"plugins"
+	],
+	"version": "0.1",
+	"author": {
+		"name": "Santhosh Sasi",
+		"url": "https://github.com/SanthoshSasi"
+	},
+	"maintainers": [
+		{
+			"name": "Zeno Rocha",
+			"url": "https://github.com/SanthoshSasi"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://sasi.me/"
+		}
+	],
+	"bugs": "https://github.com/jquery-foldable/foldable/issues",
+	"homepage": "http://jqueryfoldable.com",
+	"docs": "https://github.com/jquery-foldable/foldable#readme",
+	"download": "https://github.com/jquery-foldable/foldable/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
